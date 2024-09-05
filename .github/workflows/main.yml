@@ -7,5 +7,6 @@ jobs :
       - name: first checkout
         uses: actions/checkout@v3
       - name: Run Feed Generator
-        uses: greyblood/podcast-generator@main 
+        uses: greyblood/podcast-generator@main
+        
         
